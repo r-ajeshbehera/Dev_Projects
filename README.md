@@ -119,9 +119,9 @@ This repository is licensed under the MIT License – free to use, modify, and d
 Let’s connect! Reach out for collaboration, feedback, or job opportunities:
 
 📧 Email: rb450637@gmail.com
-🌐 Portfolio: https://sites.google.com/view/r-ajeshbehera
+🌐 Portfolio:[ https://rajeshbehera.vercel.app/ ]
 
-💼 LinkedIn:  https://www.linkedin.com/in/rajesh-behera-695a0224b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+💼 LinkedIn: [ https://www.linkedin.com/in/rajesh-behera-695a0224b/ ]
 
 
 Thank You for Visiting PROJECT! 🎉
