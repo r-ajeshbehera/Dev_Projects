@@ -118,7 +118,7 @@ This repository is licensed under the MIT License – free to use, modify, and d
 📬 Contact
 Let’s connect! Reach out for collaboration, feedback, or job opportunities:
 
-📧 Email: rb450637@gmail.com
+📧 Email: rajeshbehera.works@gmail.com
 🌐 Portfolio:[ https://rajeshbehera.vercel.app/ ]
 
 💼 LinkedIn: [ https://www.linkedin.com/in/rajesh-behera-695a0224b/ ]
