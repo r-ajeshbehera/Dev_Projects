@@ -1,9 +1,9 @@
-# PROJECTS
-Welcome to PROJECT
+# Dev_Projects
+Welcome to Dev_Projects
 🚀 A portfolio of cutting-edge software solutions
-This repository, PROJECT, is a showcase of my development expertise, featuring a collection of full-stack applications and tools built with modern technologies. Each project includes complete source code, detailed setup guides, and live demos to demonstrate real-world functionality. Whether you're a developer, collaborator, or recruiter, dive in to explore my work and see innovation in action!
+This repository, Dev_Projects, is a showcase of my development expertise, featuring a collection of full-stack applications and tools built with modern technologies. Each project includes complete source code, detailed setup guides, and live demos to demonstrate real-world functionality. Whether you're a developer, collaborator, or recruiter, dive in to explore my work and see innovation in action!
 
-🌟 Why Explore PROJECT?
+🌟 Why Explore Dev_Projects?
 
 Variety of Solutions: From web applications to APIs, each project addresses unique challenges with robust, scalable code.
 Runnable Codebases: Clear instructions make it easy to run projects locally.
@@ -124,5 +124,5 @@ Let’s connect! Reach out for collaboration, feedback, or job opportunities:
 💼 LinkedIn: [ https://www.linkedin.com/in/rajesh-behera-695a0224b/ ]
 
 
-Thank You for Visiting PROJECT! 🎉
+Thank You for Visiting Dev_Projects! 🎉
 Whether you're a developer looking for inspiration or a recruiter assessing my expertise, I hope this repository showcases my passion for crafting impactful software. Clone the projects, explore the demos, and let’s build something extraordinary together!
